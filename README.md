@@ -1,86 +1,106 @@
-<!-- Profile README for: ismahin -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Md%20Ibrahim%20Shikder%20Mahin&fontSize=42&fontAlignY=40&desc=Research%20Assistant%20%7C%20Generative%20AI%20%7C%20Computer%20Vision%20%7C%20IoT&descAlignY=65&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=190&section=header&text=Md%20Ibrahim%20Shikder%20Mahin&fontSize=44&fontAlignY=40&desc=Generative%20AI%20%7C%20Computer%20Vision%20%7C%20IoT%20%7C%20ML%20Pipelines&descAlignY=66&descSize=18&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=700&lines=Generative+AI+%26+Foundation+Models;Computer+Vision+(YOLO)+for+Road+Safety;ML+Pipelines+for+Climate%2FHealth+Analytics;IoT+Smart+Water+Metering+%7C+Anomaly+Detection" />
-</p>
-
-<p align="center">
+  <a href="https://www.linkedin.com/in/ismahin/">
+    <img src="https://img.shields.io/badge/LinkedIn-ismahin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://scholar.google.com/citations?user=32HWm3gAAAAJ&hl=en">
+    <img src="https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" />
+  </a>
+  <a href="https://orcid.org/0009-0001-4071-7140">
+    <img src="https://img.shields.io/badge/ORCID-0009--0001--4071--7140-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" />
+  </a>
   <a href="mailto:mahinshikder01@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mahinshikder01%40gmail.com-2ea44f?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-mahinshikder01%40gmail.com-2ea44f?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Research%20Assistant-BUBT-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-GenAI%20%7C%20CV%20%7C%20IoT%20%7C%20ML-111827?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,linux,git,github,arduino,raspberrypi,matlab" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/ismahin">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ismahin&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent" />
   </a>
   <a href="https://github.com/ismahin">
-    <img src="https://img.shields.io/badge/GitHub-@ismahin-181717?style=flat&logo=github&logoColor=white" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismahin&layout=donut-vertical&theme=transparent" />
   </a>
 </p>
 
----
-
-## About
-I’m a Research Assistant focused on **Generative AI**, **ML pipelines**, **Computer Vision**, and **IoT** systems—building practical, high-impact solutions for healthcare, safety, and smart infrastructure.
-
-- 🔭 Current focus: precision-aware LLM reasoning, synthetic data generation, real-time CV, anomaly detection for IoT
-- 🌍 Location: Dhaka, Bangladesh
-- 🤝 Open to: research collaboration, reproducible ML, applied AI for public good
-
----
-
-## Research Interests
-- **Generative AI & Foundation Models**: precision-aware LLM reasoning, controllable synthesis, calibration  
-- **Computer Vision**: YOLO-based real-time detection for road safety  
-- **ML Pipelines**: climate risk (bushfire), healthcare prediction  
-- **IoT + Edge AI**: smart metering, multimodal comms, tamper/anomaly detection
-
----
-
-## Selected Publications
-- **Real-time rapid accident detection for optimizing road safety in Bangladesh** (Heliyon, 2025)  
-  https://doi.org/10.1016/j.heliyon.2025.e42432
-- **Smart water metering in Bangladesh: transitioning from traditional systems to digitalization** (IJST Civil Eng., 2025)  
-  https://doi.org/10.1007/s40996-025-01809-2
-- **AGRO AI: modernizing agriculture using NASA satellite data and AI** (Applied Food Research, 2026)  
-  https://doi.org/10.1016/j.afres.2026.101678
-- **Hybrid ML for synthetic clinical tabular data with post-hoc calibration** (arXiv, 2025)  
-  https://doi.org/10.48550/arXiv.2510.10513
-
----
-
-## Featured Projects (Pin these)
-> Replace the repo links once your projects are public/cleaned.
-
-- 🧠 **harmful-narratives-precision-llm** — precision-aware LLM reasoning + clustering to detect emerging narratives  
-- 🧬 **synthetic-tabular-cvae-gmm-smote** — CVAE/GMM/SMOTE hybrid synthesis + calibration for clinical tables  
-- 🚗 **road-accident-detection-yolo** — real-time accident detection pipeline (training + inference + deployment)  
-- 🚰 **smart-water-meter-iot-anomaly** — IoT smart meter + anomaly detection (tamper resistance)  
-- 🔥 **australia-bushfire-prediction-ml** — ANN/RF pipelines for fire danger prediction  
-- 🌾 **agro-ai-nasa-satellite** — satellite-driven AI workflows for agriculture analytics
-
----
-
-## Tech Stack
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-000000?style=flat&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/IoT-0A66C2?style=flat&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-</p>
-
----
-
-## GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ismahin&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismahin&layout=compact" />
+  <a href="https://github.com/ismahin">
+    <img src="https://github-profile-trophy.vercel.app/?username=ismahin&theme=flat&no-frame=true&row=1&column=6" />
+  </a>
 </p>
 
----
+<br/>
 
-### Collaboration
-If you’re working on **GenAI / CV / IoT / applied ML**, feel free to reach out via email.
+<p align="center">
+  <img src="https://img.shields.io/badge/Publications-DOI%20Links-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <a href="https://doi.org/10.1016/j.heliyon.2025.e42432">
+    <img src="https://img.shields.io/badge/Heliyon%20(2025)-10.1016%2Fj.heliyon.2025.e42432-0B5FFF?style=flat-square" />
+  </a>
+  <a href="https://doi.org/10.1007/s40996-025-01809-2">
+    <img src="https://img.shields.io/badge/IJST%20Civil%20Eng.%20(2025)-10.1007%2Fs40996--025--01809--2-6B7280?style=flat-square" />
+  </a>
+  <a href="https://doi.org/10.1016/j.afres.2026.101678">
+    <img src="https://img.shields.io/badge/Applied%20Food%20Research%20(2026)-10.1016%2Fj.afres.2026.101678-16A34A?style=flat-square" />
+  </a>
+  <a href="https://doi.org/10.48550/arXiv.2510.10513">
+    <img src="https://img.shields.io/badge/arXiv%20(2025)-10.48550%2FarXiv.2510.10513-B91C1C?style=flat-square" />
+  </a>
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Featured%20Projects-Pin%20your%20best%20repos-111827?style=for-the-badge" />
+</p>
+
+<!-- Replace repo names below with your real repos (must exist on GitHub). -->
+<p align="center">
+  <a href="https://github.com/ismahin/harmful-narratives-precision-llm">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=harmful-narratives-precision-llm&theme=transparent" />
+  </a>
+  <a href="https://github.com/ismahin/synthetic-tabular-cvae-gmm-smote">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=synthetic-tabular-cvae-gmm-smote&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ismahin/road-accident-detection-yolo">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=road-accident-detection-yolo&theme=transparent" />
+  </a>
+  <a href="https://github.com/ismahin/smart-water-meter-iot-anomaly">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=smart-water-meter-iot-anomaly&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ismahin/australia-bushfire-prediction-ml">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=australia-bushfire-prediction-ml&theme=transparent" />
+  </a>
+  <a href="https://github.com/ismahin/agro-ai-nasa-satellite">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=agro-ai-nasa-satellite&theme=transparent" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+</p>
