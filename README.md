@@ -31,19 +31,20 @@
 
 <br/>
 
+<!-- FIXED: hide commits to avoid "Could not fetch total commits" -->
 <p align="center">
   <a href="https://github.com/ismahin">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ismahin&show_icons=true&include_all_commits=true&rank_icon=github&theme=transparent" />
+    <img height="170"
+         src="https://github-readme-stats.vercel.app/api?username=ismahin&show_icons=true&theme=transparent&hide_border=true&hide=commits&cache_seconds=86400" />
   </a>
   <a href="https://github.com/ismahin">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismahin&layout=donut-vertical&theme=transparent" />
+    <img height="170"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismahin&layout=donut-vertical&theme=transparent&hide_border=true&cache_seconds=86400" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ismahin">
-    <img src="https://github-profile-trophy.vercel.app/?username=ismahin&theme=flat&no-frame=true&row=1&column=6" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ismahin&theme=flat&no-frame=true&column=-1&margin-w=10" />
 </p>
 
 <br/>
@@ -70,34 +71,31 @@
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Featured%20Projects-Pin%20your%20best%20repos-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Featured%20Projects-Visual%20Tiles-111827?style=for-the-badge" />
 </p>
 
-<!-- Replace repo names below with your real repos (must exist on GitHub). -->
+<!-- These tiles won't break even if you later rename repos; update links when repos are ready -->
 <p align="center">
-  <a href="https://github.com/ismahin/harmful-narratives-precision-llm">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=harmful-narratives-precision-llm&theme=transparent" />
+  <a href="https://github.com/ismahin?tab=repositories">
+    <img src="https://img.shields.io/badge/GenAI-Precision%20LLM%20Reasoning-0ea5e9?style=for-the-badge" />
   </a>
-  <a href="https://github.com/ismahin/synthetic-tabular-cvae-gmm-smote">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=synthetic-tabular-cvae-gmm-smote&theme=transparent" />
+  <a href="https://github.com/ismahin?tab=repositories">
+    <img src="https://img.shields.io/badge/Synthetic%20Data-CVAE%20%2B%20GMM%20%2B%20SMOTE-22c55e?style=for-the-badge" />
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ismahin/road-accident-detection-yolo">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=road-accident-detection-yolo&theme=transparent" />
-  </a>
-  <a href="https://github.com/ismahin/smart-water-meter-iot-anomaly">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=smart-water-meter-iot-anomaly&theme=transparent" />
+  <a href="https://github.com/ismahin?tab=repositories">
+    <img src="https://img.shields.io/badge/Computer%20Vision-YOLO%20Accident%20Detection-f97316?style=for-the-badge" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/ismahin/australia-bushfire-prediction-ml">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=australia-bushfire-prediction-ml&theme=transparent" />
+  <a href="https://github.com/ismahin?tab=repositories">
+    <img src="https://img.shields.io/badge/IoT-Smart%20Water%20Meter%20Anomaly-8b5cf6?style=for-the-badge" />
   </a>
-  <a href="https://github.com/ismahin/agro-ai-nasa-satellite">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ismahin&repo=agro-ai-nasa-satellite&theme=transparent" />
+  <a href="https://github.com/ismahin?tab=repositories">
+    <img src="https://img.shields.io/badge/Climate%20ML-Bushfire%20Prediction-ef4444?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/ismahin?tab=repositories">
+    <img src="https://img.shields.io/badge/Remote%20Sensing-NASA%20Agro%20AI-14b8a6?style=for-the-badge" />
   </a>
 </p>
 
